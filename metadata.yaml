@@ -1,0 +1,45 @@
+_repo: Robot-nemesis_68558
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Edward Elmer
+    - Smith, Edward E.
+    - Smith, Doc
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68558'
+language: en
+pgterms:marc905: 20220614150059smith
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: United States :Better Publications, Inc.,1939.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Robot nemesis
+url: http://www.gutenberg.org/ebooks/68558

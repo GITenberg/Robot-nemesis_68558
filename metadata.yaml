@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 68558-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, E. E. (Edward Elmer)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9515
     wikipedia: https://en.wikipedia.org/wiki/E._E._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68558#Robot-nemesis
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68558'
